@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hera Garden — Jardinagem & Paisagismo</title>
+
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Montserrat:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#inicio" aria-label="Hera Garden - início">
+          <img src="assets/logo.png" alt="Hera Garden logo" />
+        </a>
+
+        <nav class="main-nav" id="mainNav">
+          <a href="#inicio">INÍCIO</a>
+          <a href="#servicos">SERVIÇOS</a>
+          <a href="#localizacao">LOCALIZAÇÃO</a>
+          <a href="#contato">CONTATO</a>
+        </nav>
+
+        <button class="nav-toggle" aria-controls="mainNav" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Hero com vídeo -->
+    <section id="inicio" class="hero">
+      <video
+        class="hero-video"
+        autoplay
+        muted
+        loop
+        playsinline
+        preload="metadata"
+        poster="assets/hero-poster.jpg"
+      >
+        <source src="assets/hero.mp4" type="video/mp4" />
+      </video>
+
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <img
+          class="logo-mark"
+          src="assets/logo-full.png"
+          alt="Hera Garden logo completo"
+        />
+      </div>
+    </section>
+
+    <section id="servicos" class="section placeholder"></section>
+    <section id="localizacao" class="section placeholder"></section>
+    <section id="contato" class="section placeholder"></section>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
