@@ -67,8 +67,7 @@ hera-garden/
 💼 Desenvolvimento Web, Infraestrutura & Marketing Digital  
 
 👨‍💻 **Desenvolvedor:** João Antonio Diniz Filho  
-📧 [contato@alpphas.com.br](mailto:contato@alpphas.com.br)  
-🌐 [https://alpphas.com.br](https://alpphas.com.br)  
+📧 [joaoantoniodinizfilho@gmail.com](mailto:joaoantoniodinizfilho@gmail.com)   
 
 ---
 
