@@ -71,13 +71,6 @@ hera-garden/
 
 ---
 
-## 🏢 Informações da Empresa  
-
-**Hera Garden – Jardinagem & Paisagismo**  
-CNPJ: 36.120.460/0001-09  
-📍 Atendimento em toda a região  
-📞 Contato via WhatsApp e e-mail no site  
-
 ---
 
 ## 🚀 Publicação  
